@@ -1,0 +1,4 @@
+# Dependências do jogo
+# Turtle já faz parte da stdlib
+# requirements.txt for Space Adventure
+# No external dependencies; uses only Python Standard Library (turtle, argparse, logging, etc.)
