@@ -1,6 +1,7 @@
 # Space Adventure
 
-![Space Adventure](docs/screenshot.png)
+![image](https://github.com/user-attachments/assets/caa62247-251c-428b-b290-9c5b19d3196e)
+
 
 Jogo 2D em Python/Turtle onde você pilota uma nave espacial para coletar estrelas e desviar de asteroides. Projetado para ser leve, modular e configurável, o *Space Adventure* serve tanto como projeto educativo para quem está começando em Python quanto como demonstração de boas práticas de engenharia de software.
 
